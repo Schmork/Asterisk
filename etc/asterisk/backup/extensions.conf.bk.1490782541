@@ -1,0 +1,4 @@
+[default]
+exten => 1001,1,Answer()
+exten => 1001,2,Playback(hello-world)
+exten => 1001,3,Hangup()
