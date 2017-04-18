@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/Schmork/Asterisk/master/asterisk_conf/extensions.conf
+https://raw.githubusercontent.com/Schmork/Asterisk/master/asterisk_conf/extensions_additional.conf
+https://raw.githubusercontent.com/Schmork/Asterisk/master/asterisk_conf/sip.conf
